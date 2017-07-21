@@ -9,17 +9,21 @@ body {
 #footer {
   background-color: dimgray;
   text-align: left;
-  font-size: 11;
+  font-size: 11px;
   color: white;
-}
-#about {
-  font-weight: bold;
-  font-size: 23;
 }
 a {
   color: white;
   font-weight: bold;
 }
-p.process {
-  font-size: 32;
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
 }
